@@ -19,16 +19,16 @@
 <!--기술 스택-->
   <h3>Tech Stack</h3>
   <div>
-    <img src="https://img.shields.io/badge/react-555967.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-    <img src="https://img.shields.io/badge/Next-404040.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/javascript-ECC36A.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-    <img src="https://img.shields.io/badge/typescript-5197C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/react-555967.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/Next-404040.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/javascript-ECC36A.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/typescript-5197C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   </div>
   <div>
-    <img src="https://img.shields.io/badge/html5-CE8570.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/css3-57A3DA.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/tailwindcss-6BBCC6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/React%20Query-DD7C86.svg?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/html5-CE8570.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/css3-57A3DA.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/tailwindcss-6BBCC6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/React%20Query-DD7C86.svg?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   </div>
 
 <br>
@@ -39,5 +39,5 @@
 <!--     <a href="https://velog.io/@oka1313">
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
     </a> -->
-    <img src="https://img.shields.io/badge/sohyun5335@gmail.com-737373?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img height="24" src="https://img.shields.io/badge/sohyun5335@gmail.com-737373?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </div>
