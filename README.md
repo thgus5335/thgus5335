@@ -1,5 +1,6 @@
 <!--타이틀-->
-<h3>Sohyun | Frontend Developer</h3>
+<h3>Sohyun | Frontend Developer <a href="https://hits.seeyoufarm.com"><img height="16" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-thgus5335&count_bg=%236F97EE&title_bg=%236F6F6F&icon=baidu.svg&icon_color=%23E7E7E7&title=%EB%B0%9C%EB%8F%84%EC%9E%A5&edge_flat=false"/></a> </h3> 
+
 <div>
   <img width="210" src="https://github.com/user-attachments/assets/fddb0f2d-42ad-4476-a41c-ad2438a90a85">
   <picture>
