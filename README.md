@@ -29,6 +29,7 @@
     <img height="24" src="https://img.shields.io/badge/css3-57A3DA.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
     <img height="24" src="https://img.shields.io/badge/tailwindcss-6BBCC6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
     <img height="24" src="https://img.shields.io/badge/React%20Query-DD7C86.svg?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+    <img height="24" src="https://img.shields.io/badge/claude-D97757.svg?style=for-the-badge&logo=claude&logoColor=white" />&nbsp
   </div>
 
 <br>
